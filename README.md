@@ -11,6 +11,7 @@ This data analysis project aims to analyze customer reviews for British Airways 
 
 [Dashboard](British_Airways_Review_Dashboard_png)
 
+![British_Airways_Review_Dashboard](https://github.com/user-attachments/assets/0bafee30-ae6b-4bb2-8945-0a1ab3b466e2)
 
 ### Data Sources
 
