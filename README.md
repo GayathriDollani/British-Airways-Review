@@ -1,9 +1,11 @@
 # British-Airways-Review
 
 ## Table of Contents
-- [Project Overview](Project-overview)
-- [Data Sources](Data-Sources)
-- [Recommendations](Recommendations)
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+
 
 ### Project Overview
 
@@ -32,11 +34,13 @@ In the initial data preaparation phase, performed the following tasks:
 3. Data cleaning and formatting.
 
 ### Results
+
 The analysis results are summarized as follows:
 1. Delivered a comprehensive Tableau dashboard offering actionable insights for British Airways to improve customer satisfaction and operational efficiency.
 2. The project demonstrated the power of data-driven decision-making and highlighted areas for strategic intervention, helping British Airways enhance its reputation and service quality.
 
 ### Recommendations
+
 1. Enhance staffing and resources during peak times.
 2. Address negative feedback trends proactively with targeted service improvements.
 3. Implement follow-up surveys to track the impact of service changes.
