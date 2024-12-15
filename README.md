@@ -9,6 +9,9 @@
 
 This data analysis project aims to analyze customer reviews for British Airways to identify key insights related to customer satisfaction, pain points, and trends over time. The project leveraged Tableau for data visualization to transform raw customer feedback into actionable insights, aiding British Airways in enhancing its services and addressing customer concerns effectively.
 
+[Dashboard](British_Airways_Review_Dashboard_png)
+
+
 ### Data Sources
 
 ba reviews data: The primary dataset used for this analysis is the "ba_reviews.csv" file, containing detailed information each review by the countries.
